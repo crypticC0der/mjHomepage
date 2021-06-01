@@ -1,12 +1,12 @@
 html {
-    color: #d5d5d5;
+    color: #b6235a;
     font: 18px "Iosevka Nerd Font";
     height: 100%;
 }
 
 body {
-    background-color: #1f252a;
-    padding: 300px;
+    background-color: #252525;
+    padding: 200px;
 }
 
 a {
@@ -28,13 +28,17 @@ ul, nav {
 
 div {
     text-align: center;
-    padding-right: 75px;
+	margin-left: -50px;
 }
 
 .center {
     text-align: center;
     margin-left: -25px;
     margin-bottom: 50px;
+}
+
+li {
+	color: #d5d5d5;
 }
 
 input {
